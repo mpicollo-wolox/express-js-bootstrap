@@ -18,7 +18,6 @@
     "precommit": "npm run lint",
     "prepush": "npm test",
     "outdated": "npm outdated --depth 0",
-    "pretest": "npm run lint",
     "prestart": "npm run lint"
   },
   "repository": {
